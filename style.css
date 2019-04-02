@@ -1,0 +1,15 @@
+body {
+  color: red;
+}
+
+.test {
+  color: red;
+}
+.test .the-p {
+  color: blue;
+}
+.test .the-p .the-span {
+  color: aqua;
+}
+
+/*# sourceMappingURL=style.css.map */

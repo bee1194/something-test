@@ -1,0 +1,12 @@
+body{
+    color: red;
+}
+.test{
+    color: red;
+    .the-p{
+        color: blue;
+        .the-span{
+            color: aqua;
+        }
+    }
+}
